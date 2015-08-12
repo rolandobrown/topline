@@ -16,10 +16,10 @@ class Nytimes < Cli
     @@words << self
   end
 
-  def get_nyt_headline(today_parsed)
-    today_docs_array = today_parsed["response"]["docs"]
-    today_headlines_array = today_docs_array.collect {|doc| doc["headline"]["main"]}
-  end
+  # def get_nyt_headline(today_parsed)
+  #   today_docs_array = today_parsed["response"]["docs"]
+  #   today_headlines_array = today_docs_array.collect {|doc| doc["headline"]["main"]}
+  # end
 
   # def set_keywords_array
   #   "#{@@words}"

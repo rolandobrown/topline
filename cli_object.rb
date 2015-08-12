@@ -52,13 +52,17 @@ class Cli
   #   keywords = "#{@@words}"
   # end
 
+  def map_array_with_index(array)
+    array.map.with_index(1){|element, index| puts "#{index}. " "#{element}"}
+  end
+
   def get_api_headline
     nytimes_today_json = RestClient.get("http://api.nytimes.com/svc/search/v2/articlesearch.json?callback=svc_search_v2_articlesearch&q=#{@@words}&begin_date=#{@time}&end_date=#{@time}&hl=true&api-key=#{NYT}")
     today_parsed = JSON.parse(nytimes_today_json)
     today_docs_array = today_parsed["response"]["docs"]
     today_headlines_array = today_docs_array.collect {|doc| doc["headline"]["main"]}
-      puts today_headlines_array
     today_headlines_link = today_docs_array.collect {|doc| doc["web_url"]}
-      puts today_headlines_link
+    map_array_with_index(today_headlines_array)
+    map_array_with_index(today_headlines_link)
   end  
 end

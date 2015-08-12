@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+require_relative '../cli_object'
+require_relative '../nyt_object'
+
+george = Cli.new("George")
+george.name == "George"
+george.welcome
+george.time
+george.add_keyword(" ")
+george.get_api_headline(" ")

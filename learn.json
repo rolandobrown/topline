@@ -1,389 +1,389 @@
 {
-  -response: {
-    -hits: [
-      -{
-        -result: {
-          header_image_url: "http://s3.amazonaws.com/rapgenius/Luke-Christopher.jpg",
-          pyongs_count: 19,
-          title: "Lot to Learn",
-          -primary_artist: {
-            image_url: "http://s3.amazonaws.com/rapgenius/Luke-Christopher.jpg",
-            name: "Luke Christopher",
-            id: 11795,
-            url: "http://genius.com/artists/Luke-christopher"
+  "response": {
+    "hits": [
+      {
+        "result": {
+          "header_image_url": "http://s3.amazonaws.com/rapgenius/Luke-Christopher.jpg",
+          "pyongs_count": 19,
+          "title": "Lot to Learn",
+          "primary_artist": {
+            "image_url": "http://s3.amazonaws.com/rapgenius/Luke-Christopher.jpg",
+            "name": "Luke Christopher",
+            "id": 11795,
+            "url": "http://genius.com/artists/Luke-christopher"
           },
-          id: 664970,
-          url: "http://genius.com/Luke-christopher-lot-to-learn-lyrics",
-          annotation_count: 1
+          "id": 664970,
+          "url": "http://genius.com/Luke-christopher-lot-to-learn-lyrics",
+          "annotation_count": 1
         },
-        -highlights: {
+        "highlights": {
 
         }
       },
-      -{
-        -result: {
-          header_image_url: "http://s3.amazonaws.com/rapgenius/1375819824_Foo_fighters_greatest_hits.jpg",
-          pyongs_count: 9,
-          title: "Learn To Fly",
-          -primary_artist: {
-            image_url: "http://images.rapgenius.com/b50c5f87b3d7155acf3b0be9f8329e05.720x580x1.jpg",
-            name: "Foo Fighters",
-            id: 17237,
-            url: "http://genius.com/artists/Foo-fighters"
+      {
+        "result": {
+          "header_image_url": "http://s3.amazonaws.com/rapgenius/1375819824_Foo_fighters_greatest_hits.jpg",
+          "pyongs_count": 9,
+          "title": "Learn To Fly",
+          "primary_artist": {
+            "image_url": "http://images.rapgenius.com/b50c5f87b3d7155acf3b0be9f8329e05.720x580x1.jpg",
+            "name": "Foo Fighters",
+            "id": 17237,
+            "url": "http://genius.com/artists/Foo-fighters"
           },
-          id: 102578,
-          url: "http://genius.com/Foo-fighters-learn-to-fly-lyrics",
-          annotation_count: 1
+          "id": 102578,
+          "url": "http://genius.com/Foo-fighters-learn-to-fly-lyrics",
+          "annotation_count": 1
         },
-        -highlights: {
+        "highlights": {
 
         }
       },
-      -{
-        -result: {
-          header_image_url: "http://images.rapgenius.com/8e5a356908d2f98507ccb4b36f9d2525.412x412x1.jpg",
-          pyongs_count: 16,
-          title: "Higher Learning (Intro)",
-          -primary_artist: {
-            image_url: "http://images.rapgenius.com/9287007ae6570af54bea899f78a3a601.450x230x20.gif",
-            name: "Dizzy Wright",
-            id: 14963,
-            url: "http://genius.com/artists/Dizzy-wright"
+      {
+        "result": {
+          "header_image_url": "http://images.rapgenius.com/8e5a356908d2f98507ccb4b36f9d2525.412x412x1.jpg",
+          "pyongs_count": 16,
+          "title": "Higher Learning (Intro)",
+          "primary_artist": {
+            "image_url": "http://images.rapgenius.com/9287007ae6570af54bea899f78a3a601.450x230x20.gif",
+            "name": "Dizzy Wright",
+            "id": 14963,
+            "url": "http://genius.com/artists/Dizzy-wright"
           },
-          id: 1909735,
-          url: "http://genius.com/Dizzy-wright-higher-learning-intro-lyrics",
-          annotation_count: 1
+          "id": 1909735,
+          "url": "http://genius.com/Dizzy-wright-higher-learning-intro-lyrics",
+          "annotation_count": 1
         },
-        -highlights: {
+        "highlights": {
 
         }
       },
-      -{
-        -result: {
-          header_image_url: "http://images.rapgenius.com/7b13896b86eb7a9e5149385061bc237a.300x166x1.jpg",
-          pyongs_count: 24,
-          title: "Why Is Learning To Code So Hard?",
-          -primary_artist: {
-            image_url: "http://images.rapgenius.com/7b13896b86eb7a9e5149385061bc237a.300x166x1.jpg",
-            name: "EwokABdevito",
-            id: 149149,
-            url: "http://genius.com/artists/Ewokabdevito"
+      {
+        "result": {
+          "header_image_url": "http://images.rapgenius.com/7b13896b86eb7a9e5149385061bc237a.300x166x1.jpg",
+          "pyongs_count": 24,
+          "title": "Why Is Learning To Code So Hard?",
+          "primary_artist": {
+            "image_url": "http://images.rapgenius.com/7b13896b86eb7a9e5149385061bc237a.300x166x1.jpg",
+            "name": "EwokABdevito",
+            "id": 149149,
+            "url": "http://genius.com/artists/Ewokabdevito"
           },
-          id: 911022,
-          url: "http://genius.com/Ewokabdevito-why-is-learning-to-code-so-hard-annotated",
-          annotation_count: 1
+          "id": 911022,
+          "url": "http://genius.com/Ewokabdevito-why-is-learning-to-code-so-hard-annotated",
+          "annotation_count": 1
         },
-        -highlights: {
+        "highlights": {
 
         }
       },
-      -{
-        -result: {
-          header_image_url: "http://s3.amazonaws.com/rapgenius/220px-Legends_Never_Die_cover.jpg",
-          pyongs_count: 5,
-          title: "Learn Truth",
-          -primary_artist: {
-            image_url: "http://s3.amazonaws.com/rapgenius/R_A__the_Rugged_Man_by_Gainrrom.jpg",
-            name: "R.A. The Rugged Man",
-            id: 320,
-            url: "http://genius.com/artists/Ra-the-rugged-man"
+      {
+        "result": {
+          "header_image_url": "http://s3.amazonaws.com/rapgenius/220px-Legends_Never_Die_cover.jpg",
+          "pyongs_count": 5,
+          "title": "Learn Truth",
+          "primary_artist": {
+            "image_url": "http://s3.amazonaws.com/rapgenius/R_A__the_Rugged_Man_by_Gainrrom.jpg",
+            "name": "R.A. The Rugged Man",
+            "id": 320,
+            "url": "http://genius.com/artists/Ra-the-rugged-man"
           },
-          id: 134059,
-          url: "http://genius.com/Ra-the-rugged-man-learn-truth-lyrics",
-          annotation_count: 1
+          "id": 134059,
+          "url": "http://genius.com/Ra-the-rugged-man-learn-truth-lyrics",
+          "annotation_count": 1
         },
-        -highlights: {
+        "highlights": {
 
         }
       },
-      -{
-        -result: {
-          header_image_url: "http://s3.amazonaws.com/rapgenius/1357107782_GreeneRobert-48LawsOfPower.jpg",
-          pyongs_count: 1,
-          title: "Law 2: Never Put Too Much Trust In Friends, Learn How To Use Enemies",
-          -primary_artist: {
-            image_url: "http://s3.amazonaws.com/rapgenius/robert%20greene%20web.jpg",
-            name: "Robert Greene",
-            id: 28359,
-            url: "http://genius.com/artists/Robert-greene"
+      {
+        "result": {
+          "header_image_url": "http://s3.amazonaws.com/rapgenius/1357107782_GreeneRobert-48LawsOfPower.jpg",
+          "pyongs_count": 1,
+          "title": "Law 2: Never Put Too Much Trust In Friends, Learn How To Use Enemies",
+          "primary_artist": {
+            "image_url": "http://s3.amazonaws.com/rapgenius/robert%20greene%20web.jpg",
+            "name": "Robert Greene",
+            "id": 28359,
+            "url": "http://genius.com/artists/Robert-greene"
           },
-          id: 103848,
-          url: "http://genius.com/Robert-greene-law-2-never-put-too-much-trust-in-friends-learn-how-to-use-enemies-annotated",
-          annotation_count: 1
+          "id": 103848,
+          "url": "http://genius.com/Robert-greene-law-2-never-put-too-much-trust-in-friends-learn-how-to-use-enemies-annotated",
+          "annotation_count": 1
         },
-        -highlights: {
+        "highlights": {
 
         }
       },
-      -{
-        -result: {
-          header_image_url: "http://s3.amazonaws.com/rapgenius/1373794142_James_Blake_JB.jpg",
-          pyongs_count: 1,
-          title: "I Never Learnt To Share",
-          -primary_artist: {
-            image_url: "http://s3.amazonaws.com/rapgenius/tumblr_m8x0pdGHdY1rnjil5o1_1280.jpg",
-            name: "James Blake",
-            id: 13298,
-            url: "http://genius.com/artists/James-blake"
+      {
+        "result": {
+          "header_image_url": "http://s3.amazonaws.com/rapgenius/1373794142_James_Blake_JB.jpg",
+          "pyongs_count": 1,
+          "title": "I Never Learnt To Share",
+          "primary_artist": {
+            "image_url": "http://s3.amazonaws.com/rapgenius/tumblr_m8x0pdGHdY1rnjil5o1_1280.jpg",
+            "name": "James Blake",
+            "id": 13298,
+            "url": "http://genius.com/artists/James-blake"
           },
-          id: 129148,
-          url: "http://genius.com/James-blake-i-never-learnt-to-share-lyrics",
-          annotation_count: 1
+          "id": 129148,
+          "url": "http://genius.com/James-blake-i-never-learnt-to-share-lyrics",
+          "annotation_count": 1
         },
-        -highlights: {
+        "highlights": {
 
         }
       },
-      -{
-        -result: {
-          header_image_url: "http://s3.amazonaws.com/rapgenius/Rihanna_TalkThatsmall.jpg",
-          pyongs_count: 7,
-          title: "Watch N Learn",
-          -primary_artist: {
-            image_url: "http://images.rapgenius.com/dfdc8c577f7c88c56267bba55341217c.704x999x1.jpg",
-            name: "Rihanna",
-            id: 89,
-            url: "http://genius.com/artists/Rihanna"
+      {
+        "result": {
+          "header_image_url": "http://s3.amazonaws.com/rapgenius/Rihanna_TalkThatsmall.jpg",
+          "pyongs_count": 7,
+          "title": "Watch N Learn",
+          "primary_artist": {
+            "image_url": "http://images.rapgenius.com/dfdc8c577f7c88c56267bba55341217c.704x999x1.jpg",
+            "name": "Rihanna",
+            "id": 89,
+            "url": "http://genius.com/artists/Rihanna"
           },
-          id: 59245,
-          url: "http://genius.com/Rihanna-watch-n-learn-lyrics",
-          annotation_count: 1
+          "id": 59245,
+          "url": "http://genius.com/Rihanna-watch-n-learn-lyrics",
+          "annotation_count": 1
         },
-        -highlights: {
+        "highlights": {
 
         }
       },
-      -{
-        -result: {
-          header_image_url: "http://s3.amazonaws.com/rapgenius/Jin_-_The_Rest_is_History_album_cover.jpg",
-          pyongs_count: 1,
-          title: "Learn Chinese",
-          -primary_artist: {
-            image_url: "http://s3.amazonaws.com/rapgenius/OB-JT582_mcjin1_EV_20100831125651.jpg",
-            name: "Jin",
-            id: 567,
-            url: "http://genius.com/artists/Jin"
+      {
+        "result": {
+          "header_image_url": "http://s3.amazonaws.com/rapgenius/Jin_-_The_Rest_is_History_album_cover.jpg",
+          "pyongs_count": 1,
+          "title": "Learn Chinese",
+          "primary_artist": {
+            "image_url": "http://s3.amazonaws.com/rapgenius/OB-JT582_mcjin1_EV_20100831125651.jpg",
+            "name": "Jin",
+            "id": 567,
+            "url": "http://genius.com/artists/Jin"
           },
-          id: 1080,
-          url: "http://genius.com/Jin-learn-chinese-lyrics",
-          annotation_count: 1
+          "id": 1080,
+          "url": "http://genius.com/Jin-learn-chinese-lyrics",
+          "annotation_count": 1
         },
-        -highlights: {
+        "highlights": {
 
         }
       },
-      -{
-        -result: {
-          header_image_url: "http://images.rapgenius.com/8006356c848b119b9e445b699f71a18b.1000x794x1.jpg",
-          pyongs_count: 13,
-          title: "Learning to Fly",
-          -primary_artist: {
-            image_url: "http://s3.amazonaws.com/rapgenius/1374871288_pink-floyd-1967-006.jpg",
-            name: "Pink Floyd",
-            id: 694,
-            url: "http://genius.com/artists/Pink-floyd"
+      {
+        "result": {
+          "header_image_url": "http://images.rapgenius.com/8006356c848b119b9e445b699f71a18b.1000x794x1.jpg",
+          "pyongs_count": 13,
+          "title": "Learning to Fly",
+          "primary_artist": {
+            "image_url": "http://s3.amazonaws.com/rapgenius/1374871288_pink-floyd-1967-006.jpg",
+            "name": "Pink Floyd",
+            "id": 694,
+            "url": "http://genius.com/artists/Pink-floyd"
           },
-          id: 146518,
-          url: "http://genius.com/Pink-floyd-learning-to-fly-lyrics",
-          annotation_count: 1
+          "id": 146518,
+          "url": "http://genius.com/Pink-floyd-learning-to-fly-lyrics",
+          "annotation_count": 1
         },
-        -highlights: {
+        "highlights": {
 
         }
       },
-      -{
-        -result: {
-          header_image_url: "http://s3.amazonaws.com/rapgenius/1351881888_ne-yo.jpg",
-          pyongs_count: 17,
-          title: "Let Me Love You (Until You Learn to Love Yourself)",
-          -primary_artist: {
-            image_url: "http://s3.amazonaws.com/rapgenius/1351881888_ne-yo.jpg",
-            name: "Ne-Yo",
-            id: 375,
-            url: "http://genius.com/artists/Ne-yo"
+      {
+        "result": {
+          "header_image_url": "http://s3.amazonaws.com/rapgenius/1351881888_ne-yo.jpg",
+          "pyongs_count": 17,
+          "title": "Let Me Love You (Until You Learn to Love Yourself)",
+          "primary_artist": {
+            "image_url": "http://s3.amazonaws.com/rapgenius/1351881888_ne-yo.jpg",
+            "name": "Ne-Yo",
+            "id": 375,
+            "url": "http://genius.com/artists/Ne-yo"
           },
-          id: 92862,
-          url: "http://genius.com/Ne-yo-let-me-love-you-until-you-learn-to-love-yourself-lyrics",
-          annotation_count: 1
+          "id": 92862,
+          "url": "http://genius.com/Ne-yo-let-me-love-you-until-you-learn-to-love-yourself-lyrics",
+          "annotation_count": 1
         },
-        -highlights: {
+        "highlights": {
 
         }
       },
-      -{
-        -result: {
-          header_image_url: "http://s3.amazonaws.com/rapgenius/1316735717_Blueprintkrs.jpg",
-          pyongs_count: 1,
-          title: "You Must Learn",
-          -primary_artist: {
-            image_url: "http://s3.amazonaws.com/rapgenius/BDP%20OLD.jpg",
-            name: "Boogie Down Productions",
-            id: 815,
-            url: "http://genius.com/artists/Boogie-down-productions"
+      {
+        "result": {
+          "header_image_url": "http://s3.amazonaws.com/rapgenius/1316735717_Blueprintkrs.jpg",
+          "pyongs_count": 1,
+          "title": "You Must Learn",
+          "primary_artist": {
+            "image_url": "http://s3.amazonaws.com/rapgenius/BDP%20OLD.jpg",
+            "name": "Boogie Down Productions",
+            "id": 815,
+            "url": "http://genius.com/artists/Boogie-down-productions"
           },
-          id: 11304,
-          url: "http://genius.com/Boogie-down-productions-you-must-learn-lyrics",
-          annotation_count: 1
+          "id": 11304,
+          "url": "http://genius.com/Boogie-down-productions-you-must-learn-lyrics",
+          "annotation_count": 1
         },
-        -highlights: {
+        "highlights": {
 
         }
       },
-      -{
-        -result: {
-          header_image_url: "http://images.rapgenius.com/1e1ebfd1f79138a02b3cbced2c28bcf7.800x800x1.jpg",
-          pyongs_count: 5,
-          title: "The Learning (Burn)",
-          -primary_artist: {
-            image_url: "http://s3.amazonaws.com/rapgenius/mobbdeep.jpg",
-            name: "Mobb Deep",
-            id: 251,
-            url: "http://genius.com/artists/Mobb-deep"
+      {
+        "result": {
+          "header_image_url": "http://images.rapgenius.com/1e1ebfd1f79138a02b3cbced2c28bcf7.800x800x1.jpg",
+          "pyongs_count": 5,
+          "title": "The Learning (Burn)",
+          "primary_artist": {
+            "image_url": "http://s3.amazonaws.com/rapgenius/mobbdeep.jpg",
+            "name": "Mobb Deep",
+            "id": 251,
+            "url": "http://genius.com/artists/Mobb-deep"
           },
-          id: 33526,
-          url: "http://genius.com/Mobb-deep-the-learning-burn-lyrics",
-          annotation_count: 1
+          "id": 33526,
+          "url": "http://genius.com/Mobb-deep-the-learning-burn-lyrics",
+          "annotation_count": 1
         },
-        -highlights: {
+        "highlights": {
 
         }
       },
-      -{
-        -result: {
-          header_image_url: "http://images.rapgenius.com/2b42f9e33a7f4703766fc474f206bbc9.484x497x1.jpg",
-          pyongs_count: 6,
-          title: "I Never Learn",
-          -primary_artist: {
-            image_url: "http://s3.amazonaws.com/rapgenius/tumblr_meygy0iiPg1r6mnd0o1_500.jpg",
-            name: "Lykke Li",
-            id: 1730,
-            url: "http://genius.com/artists/Lykke-li"
+      {
+        "result": {
+          "header_image_url": "http://images.rapgenius.com/2b42f9e33a7f4703766fc474f206bbc9.484x497x1.jpg",
+          "pyongs_count": 6,
+          "title": "I Never Learn",
+          "primary_artist": {
+            "image_url": "http://s3.amazonaws.com/rapgenius/tumblr_meygy0iiPg1r6mnd0o1_500.jpg",
+            "name": "Lykke Li",
+            "id": 1730,
+            "url": "http://genius.com/artists/Lykke-li"
           },
-          id: 374788,
-          url: "http://genius.com/Lykke-li-i-never-learn-lyrics",
-          annotation_count: 1
+          "id": 374788,
+          "url": "http://genius.com/Lykke-li-i-never-learn-lyrics",
+          "annotation_count": 1
         },
-        -highlights: {
+        "highlights": {
 
         }
       },
-      -{
-        -result: {
-          header_image_url: "http://images.rapgenius.com/bf33d54fc78040d7782b9c4559071c7f.900x900x1.jpg",
-          pyongs_count: 1,
-          title: "Now I'm Learning to Love the War",
-          -primary_artist: {
-            image_url: "http://images.rapgenius.com/6724b5eff2f3f3015cdb2b728bc8a297.1000x667x1.jpg",
-            name: "Father John Misty",
-            id: 30388,
-            url: "http://genius.com/artists/Father-john-misty"
+      {
+        "result": {
+          "header_image_url": "http://images.rapgenius.com/bf33d54fc78040d7782b9c4559071c7f.900x900x1.jpg",
+          "pyongs_count": 1,
+          "title": "Now I'm Learning to Love the War",
+          "primary_artist": {
+            "image_url": "http://images.rapgenius.com/6724b5eff2f3f3015cdb2b728bc8a297.1000x667x1.jpg",
+            "name": "Father John Misty",
+            "id": 30388,
+            "url": "http://genius.com/artists/Father-john-misty"
           },
-          id: 434572,
-          url: "http://genius.com/Father-john-misty-now-im-learning-to-love-the-war-lyrics",
-          annotation_count: 1
+          "id": 434572,
+          "url": "http://genius.com/Father-john-misty-now-im-learning-to-love-the-war-lyrics",
+          "annotation_count": 1
         },
-        -highlights: {
+        "highlights": {
 
         }
       },
-      -{
-        -result: {
-          header_image_url: "//assets.rapgenius.com/images/default_cover_image.png?1439332102",
-          pyongs_count: 3,
-          title: "What I Learned From the Streets",
-          -primary_artist: {
-            image_url: null,
-            name: "Lil Boosie",
-            id: 286560,
-            url: "http://genius.com/artists/Lil-boosie"
+      {
+        "result": {
+          "header_image_url": "//assets.rapgenius.com/images/default_cover_image.png?1439332102",
+          "pyongs_count": 3,
+          "title": "What I Learned From the Streets",
+          "primary_artist": {
+            "image_url": null,
+            "name": "Lil Boosie",
+            "id": 286560,
+            "url": "http://genius.com/artists/Lil-boosie"
           },
-          id: 886465,
-          url: "http://genius.com/Lil-boosie-what-i-learned-from-the-streets-lyrics",
-          annotation_count: 1
+          "id": 886465,
+          "url": "http://genius.com/Lil-boosie-what-i-learned-from-the-streets-lyrics",
+          "annotation_count": 1
         },
-        -highlights: {
+        "highlights": {
 
         }
       },
-      -{
-        -result: {
-          header_image_url: "http://s3.amazonaws.com/rapgenius/walt-whitman-1.jpg",
-          pyongs_count: 16,
-          title: "When I Heard the Learn'd Astronomer",
-          -primary_artist: {
-            image_url: "http://s3.amazonaws.com/rapgenius/walt-whitman-1.jpg",
-            name: "Walt Whitman",
-            id: 1080,
-            url: "http://genius.com/artists/Walt-whitman"
+      {
+        "result": {
+          "header_image_url": "http://s3.amazonaws.com/rapgenius/walt-whitman-1.jpg",
+          "pyongs_count": 16,
+          "title": "When I Heard the Learn'd Astronomer",
+          "primary_artist": {
+            "image_url": "http://s3.amazonaws.com/rapgenius/walt-whitman-1.jpg",
+            "name": "Walt Whitman",
+            "id": 1080,
+            "url": "http://genius.com/artists/Walt-whitman"
           },
-          id: 76700,
-          url: "http://genius.com/Walt-whitman-when-i-heard-the-learnd-astronomer-annotated",
-          annotation_count: 1
+          "id": 76700,
+          "url": "http://genius.com/Walt-whitman-when-i-heard-the-learnd-astronomer-annotated",
+          "annotation_count": 1
         },
-        -highlights: {
+        "highlights": {
 
         }
       },
-      -{
-        -result: {
-          header_image_url: "http://images.rapgenius.com/147dc182218a11ea18bd3a9cf9558bf5.300x169x1.jpg",
-          pyongs_count: 2,
-          title: "What I Learned from the Streets",
-          -primary_artist: {
-            image_url: "http://images.rapgenius.com/147dc182218a11ea18bd3a9cf9558bf5.500x281x14.gif",
-            name: "Boosie Badazz",
-            id: 931,
-            url: "http://genius.com/artists/Boosie-badazz"
+      {
+        "result": {
+          "header_image_url": "http://images.rapgenius.com/147dc182218a11ea18bd3a9cf9558bf5.300x169x1.jpg",
+          "pyongs_count": 2,
+          "title": "What I Learned from the Streets",
+          "primary_artist": {
+            "image_url": "http://images.rapgenius.com/147dc182218a11ea18bd3a9cf9558bf5.500x281x14.gif",
+            "name": "Boosie Badazz",
+            "id": 931,
+            "url": "http://genius.com/artists/Boosie-badazz"
           },
-          id: 86302,
-          url: "http://genius.com/Boosie-badazz-what-i-learned-from-the-streets-lyrics",
-          annotation_count: 1
+          "id": 86302,
+          "url": "http://genius.com/Boosie-badazz-what-i-learned-from-the-streets-lyrics",
+          "annotation_count": 1
         },
-        -highlights: {
+        "highlights": {
 
         }
       },
-      -{
-        -result: {
-          header_image_url: "http://images.rapgenius.com/2dcf103832d0b8e75438fe4ba395a416.1000x1000x1.jpg",
-          pyongs_count: 1,
-          title: "U Gonna Learn Today",
-          -primary_artist: {
-            image_url: "http://images.rapgenius.com/8f73a1f90d07c1c94e6fc10d56b32577.640x640x1.jpg",
-            name: "K. Michelle",
-            id: 13346,
-            url: "http://genius.com/artists/K-michelle"
+      {
+        "result": {
+          "header_image_url": "http://images.rapgenius.com/2dcf103832d0b8e75438fe4ba395a416.1000x1000x1.jpg",
+          "pyongs_count": 1,
+          "title": "U Gonna Learn Today",
+          "primary_artist": {
+            "image_url": "http://images.rapgenius.com/8f73a1f90d07c1c94e6fc10d56b32577.640x640x1.jpg",
+            "name": "K. Michelle",
+            "id": 13346,
+            "url": "http://genius.com/artists/K-michelle"
           },
-          id: 84324,
-          url: "http://genius.com/K-michelle-u-gonna-learn-today-lyrics",
-          annotation_count: 1
+          "id": 84324,
+          "url": "http://genius.com/K-michelle-u-gonna-learn-today-lyrics",
+          "annotation_count": 1
         },
-        -highlights: {
+        "highlights": {
 
         }
       },
-      -{
-        -result: {
-          header_image_url: "http://s3.amazonaws.com/rapgenius/Tijon%20Headshot500x333.jpg",
-          pyongs_count: null,
-          title: "Boy Learn",
-          -primary_artist: {
-            image_url: "http://s3.amazonaws.com/rapgenius/Tijon%20Headshot500x333.jpg",
-            name: "Tijon",
-            id: 12018,
-            url: "http://genius.com/artists/Tijon"
+      {
+        "result": {
+          "header_image_url": "http://s3.amazonaws.com/rapgenius/Tijon%20Headshot500x333.jpg",
+          "pyongs_count": null,
+          "title": "Boy Learn",
+          "primary_artist": {
+            "image_url": "http://s3.amazonaws.com/rapgenius/Tijon%20Headshot500x333.jpg",
+            "name": "Tijon",
+            "id": 12018,
+            "url": "http://genius.com/artists/Tijon"
           },
-          id: 107160,
-          url: "http://genius.com/Tijon-boy-learn-lyrics",
-          annotation_count: 1
+          "id": 107160,
+          "url": "http://genius.com/Tijon-boy-learn-lyrics",
+          "annotation_count": 1
         },
-        -highlights: {
+        "highlights": {
 
         }
       }
     ]
   },
-  -meta: {
-    status: 200
+  "meta": {
+    "status": 200
   }
 }

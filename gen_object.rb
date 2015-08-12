@@ -10,36 +10,33 @@ class Genius < Cli
     # @song_lyrics = song_lyrics
     # @song_title = song_title
     # @song_source = song_source
-    @@song_title = ""
+    @@song_titles = ""
   end
 
   def parse_gen_json
     if @@words = "love"
         file_love = File.read('love.json')
-        love_hash = JSON.parse(file_love)
-        today_love_songs_array ["response"]["hits"]["result"]["title"]
-        today_love_song = today_love_songs_array.collect {|doc| doc ["response"]["hits"]["result"]["title"]}
-        @@song_title << today_love_song
+        love_parsed = JSON.parse(file_love)
+        today_love_songs_array = love_parsed["response"]["hits"]
+        today_love_songs = today_love_songs_array.collect {|hit| hit ["result"]["title"]}
+        @@song_titles << today_love_songs
     elsif  @@words = "learn"
       file_learn = File.read('learn.json')
-      learn_hash = JSON.parse(file_learn)
-      today_learn_songs_array = learn_hash["response"]["hits"]["result"]
-      today_learn_song = today_learn_hash.collect {|doc| doc ["response"]["hits"]["result"]["title"]}
-      @@song_title << today_love_song
-    elsif @@words = "code" # replace with @@words
+      learn_parsed = JSON.parse(file_love)
+      today_learn_songs_array = learn_parsed["response"]["hits"]
+      today_learn_songs = today_learn_songs_array.collect {|hit| hit ["result"]["title"]}
+      @@song_titles << today_learn_songs
+    elsif @@words = "code"
       file_code = File.read('code.json')
-      code_hash = JSON.parse(file_code)
-      today_code_songs_array ["response"]["hits"]["result"]["title"]
-      today_code_song = today_love_songs_array.collect {|doc| doc ["response"]["hits"]["result"]["title"]}
-      @@song_title << today_code_song
+      code_parsed = JSON.parse(file_love)
+      today_code_songs_array = code_parsed["response"]["hits"]
+      today_code_songs = today_code_songs_array.collect {|hit| hit ["result"]["title"]}
+      @@song_titles << today_code_songs
     end
-    @@song_title
-    binding.pry
+    @@song_titles
   end
 
-  def return_code_song_name(code_hash)
-    code_hash.each do |k, v|
-      binding.pry
-    end
+  def return_code_song_name
+    puts @@song_titles
   end
 end

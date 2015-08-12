@@ -27,7 +27,7 @@ class Cli
 
   def welcome
     puts "Welcome to Topline #{@name}"
-    puts "Your favorite lyrics should be the latest news."
+    puts "Your favorite words should be in the latest news & tunes."
     puts "Today's date is: #{@time}"
   end
 
@@ -38,30 +38,14 @@ class Cli
       @@words << keyword
     end
     @@words
-    puts "-------------------NYTimes---------------------"
-    puts "These stories talk about #{@@words} in some way"
+    puts "-------------------NYTimes & Genuis---------------------"
+    puts "These stories & songs talk about #{@@words} in some way"
     sleep 1
     puts
   end
 
-  # def self.words
-  #   @@words
-  # end
-
-  # def set_keywords_array
-  #   keywords = "#{@@words}"
-  # end
-
-  # def self.words
-  #   @@words
-  # end
-
-  # def set_keywords_array
-  #   keywords = "#{@@words}"
-  # end
-
   def map_array_with_index(array)
-    array.map.with_index(1){|element, index| puts "#{index}. " "#{element}"}
+    array.map.with_index(1){|element, index| puts "#{index}. " "#{element}" unless index >10}
   end
 
   def get_api_headline
@@ -72,5 +56,31 @@ class Cli
     today_headlines_link = today_docs_array.collect {|doc| doc["web_url"]}
     map_array_with_index(today_headlines_array)
     map_array_with_index(today_headlines_link)
+  end
+
+  def parse_gen_json
+    if @@words = "love"
+        file_love = File.read('love.json')
+        love_parsed = JSON.parse(file_love)
+        today_love_songs_array = love_parsed["response"]["hits"]
+        today_love_songs = today_love_songs_array.collect {|hit| hit ["result"]["title"]}
+        map_array_with_index(today_love_songs)
+    elsif  @@words = "learn"
+      file_learn = File.read('learn.json')
+      learn_parsed = JSON.parse(file_love)
+      today_learn_songs_array = learn_parsed["response"]["hits"]
+      today_learn_songs = today_learn_songs_array.collect {|hit| hit ["result"]["title"]}
+      map_array_with_index(today_learn_songs)
+    elsif @@words = "code"
+      file_code = File.read('code.json')
+      code_parsed = JSON.parse(file_love)
+      today_code_songs_array = code_parsed["response"]["hits"]
+      today_code_songs = today_code_songs_array.collect {|hit| hit ["result"]["title"]}
+      map_array_with_index(today_code_songs)
+    end
+  end
+
+  def return_code_song_name
+    puts @@song_titles
   end
 end

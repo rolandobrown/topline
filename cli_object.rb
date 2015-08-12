@@ -16,15 +16,16 @@ class Cli
     @time = Time.new.strftime("%Y%m%d")
     @@words = ""
   end 
-  
+
   def get_name
     puts "whats your name?"
-    user_name = gets.chomp
-    puts "Hello #{user_name}"
+    name = gets.chomp
+    @name << name
+    puts "Hello #{@name}"
   end
 
   def welcome
-    puts "Welcome to Topline #{name}"
+    puts "Welcome to Topline #{@name}"
     puts "Your favorite lyrics should be the latest news."
     puts "Today's date is: #{@time}" 
   end

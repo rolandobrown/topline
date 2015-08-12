@@ -1,5 +1,14 @@
 require 'pry'
 require 'date'
+require_relative "./key.rb"
+require 'rest-client'
+require 'pry'
+
+nytimes_today_json = RestClient.get("http://api.nytimes.com/svc/search/v2/articlesearch.json?callback=svc_search_v2_articlesearch&q=love&begin_date=20150811&end_date=20150811&hl=true&api-key=#{NYT}")
+today_parsed = JSON.parse(nytimes_today_json)
+
+today_docs_array = today_parsed["response"]["docs"]
+today_headlines_array = today_docs_array.collect {|doc| doc["headline"]["main"]}
 
 class Cli
   attr_accessor :welcome, :time, :name, :word

@@ -3,7 +3,7 @@ require_relative 'cli_object.rb'
 require 'pry'
 require 'json'
 
-class Genius
+class Genius < Cli
   attr_reader :song_source, :song_title, :song_lyrics
 
   def initialize
@@ -13,7 +13,7 @@ class Genius
     @@song_title = ""
   end
 
-  def parse_gen_json(@@words)
+  def parse_gen_json
     if @@words = "love"
         file_love = File.read('love.json')
         love_hash = JSON.parse(file_love)
@@ -23,8 +23,8 @@ class Genius
     elsif  @@words = "learn"
       file_learn = File.read('learn.json')
       learn_hash = JSON.parse(file_learn)
-      today_learn_songs_array ["response"]["hits"]["result"]["title"]
-      today_learn_song = today_learn_songs_array.collect {|doc| doc ["response"]["hits"]["result"]["title"]}
+      today_learn_songs_array = learn_hash["response"]["hits"]["result"]
+      today_learn_song = today_learn_hash.collect {|doc| doc ["response"]["hits"]["result"]["title"]}
       @@song_title << today_love_song
     elsif @@words = "code" # replace with @@words
       file_code = File.read('code.json')
@@ -33,6 +33,8 @@ class Genius
       today_code_song = today_love_songs_array.collect {|doc| doc ["response"]["hits"]["result"]["title"]}
       @@song_title << today_code_song
     end
+    @@song_title
+    binding.pry
   end
 
   def return_code_song_name(code_hash)

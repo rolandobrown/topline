@@ -1,11 +1,13 @@
 # require 'net/http'
 require_relative "./key.rb"
 require 'json'
-require 'rest-client'
+require 'json/add/core'
+# require 'rest-client'
 require 'pry'
 # require 'oauth2'
 
-code
+# file = File.read('code.json')
+# data_hash = JSON.parse(file)
 
 today_docs_array = today_parsed["response"]["docs"]
 today_headlines_array = today_docs_array.collect {|doc| doc["headline"]["main"]}
@@ -13,7 +15,6 @@ today_headlines_array = today_docs_array.collect {|doc| doc["headline"]["main"]}
 # binding.pry
 
 #setup a ruby files that prints out what would you like to set for, gets.chomp, takes in something else, and then creates a new nytimes object from that user input.
-
 
 # https://api.genius.com/oauth/authorize?
 # client_id="#{GENIUSID}"&
@@ -43,9 +44,3 @@ today_headlines_array = today_docs_array.collect {|doc| doc["headline"]["main"]}
 #
 # nytimes_20040811_json = RestClient.get("http://api.nytimes.com/svc/search/v2/articlesearch.json?callback=svc_search_v2_articlesearch&q=love&begin_date=20040811&end_date=20150811&hl=true&api-key=$NYT")
 # 20040811_parsed = JSON.parse(nytimes_20040811_json)
-
-# ~> LoadError
-# ~> cannot load such file -- /Users/rolandobrown/GitHub/topline/learnlovecode.json
-# ~>
-# ~> /Users/rolandobrown/GitHub/topline/genuis.rb:3:in `require_relative'
-# ~> /Users/rolandobrown/GitHub/topline/genuis.rb:3:in `<main>'

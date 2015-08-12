@@ -5,6 +5,7 @@ class Nytimes < Cli
   @@words = []
 
   attr_reader :story_headline, :story_link
+  attr_accessor :set_keywords_array
 
   def initialize
     super
@@ -14,23 +15,15 @@ class Nytimes < Cli
   end
 
   def set_keywords_array
-    "#{@words}".shift
+    "#{@@words}"
   end
 
-  def compare_keywords(json)
-
+  def compare_keywords
+    set_keywords_array
   end
 
-# #######put this in the cli_object
-#   def get_api_headline(array)
-#     from_nytimes = super
-#     "#{from_nytimes} run the json call"
-#     all the business in the cli_object class
-#   end
+  def get_api_headline(json_array)
+    from_nytimes = super
+    "Here are a few matching headlines: #{from_nytimes}"
+  end
 end
-
-george = Cli.new("George")
-george.name == "George"
-george.welcome
-george.time
-george.add_keyword(" ")

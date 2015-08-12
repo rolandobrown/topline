@@ -10,7 +10,7 @@ class Cli
   def initialize(name)
     @name = name
     @welcome = "Welcome to Topline #{name}"
-    @time = Time.new.strftime("%Y%m%d")
+    @time = Time.new.strftime("%Y-%m-%d")
     @@words = []
   end 
 
@@ -33,7 +33,6 @@ class Cli
       @@words << keyword
     end
     puts "Finding today's headlines that match #{@@words}"
-    binding.pry
   end
 
   def self.words
@@ -41,12 +40,20 @@ class Cli
   end
 
   def set_keywords_array
-    "#{@words}"
+    keywords = "#{@@words}"
   end
 
-  # def word_for_nytimes_call_today
-  #   TODAYS_WORD = @words.shift
-  # end
+  def get_api_headline(json_array)
+    nyt_headline_one = "Learn Some Title" ##put the json call here
+    nyt_headline_two = "Love Some Title"
+    nyt_headline_three = "Code Some Title"
+    puts nyt_headline_one
+    puts nyt_headline_two
+    puts nyt_headline_three
+  end
+
+  
 end
+
 
 

@@ -24,7 +24,6 @@ class Cli
     puts "Welcome to Topline #{name}"
     puts "Your favorite lyrics should be the latest news."
     puts "Today's date is: #{@time}" 
-    puts "Begin typing your keywords:"
   end
 
   def add_keyword(*words)
@@ -33,7 +32,7 @@ class Cli
       keyword = gets.chomp
       @@words << keyword
     end
-    @@words
+    puts "Finding today's headlines that match #{@@words}"
     binding.pry
   end
 
@@ -50,8 +49,4 @@ class Cli
   # end
 end
 
-george = Cli.new("George")
-george.name == "George"
-george.welcome
-george.time
-george.add_keyword(" ")
+

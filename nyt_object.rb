@@ -21,10 +21,16 @@ class Nytimes < Cli
 
   end
 
-#######put this in the cli_object
-  def get_api_headline(array)
-    from_nytimes = super
-    "#{from_nytimes} run the json call"
-    all the business in the cli_object class
-  end
+# #######put this in the cli_object
+#   def get_api_headline(array)
+#     from_nytimes = super
+#     "#{from_nytimes} run the json call"
+#     all the business in the cli_object class
+#   end
 end
+
+george = Cli.new("George")
+george.name == "George"
+george.welcome
+george.time
+george.add_keyword(" ")

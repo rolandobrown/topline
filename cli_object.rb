@@ -27,7 +27,7 @@ class Cli
 
   def welcome
     puts "Welcome to Topline #{@name}"
-    puts "Your favorite lyrics should be the latest news."
+    puts "Find articles in today's news by typing your keyword."
     puts "Today's date is: #{@time}" 
   end
 

@@ -2,12 +2,16 @@ require 'pry'
 require 'json'
 
 class Genius
-  attr_reader :song_source, :song_title, :song_lyrics
+  attr_reader :song_title, :gen_words
 
   def initialize
-    @song_lyrics = song_lyrics
-    @song_title = song_title
-    @song_source = song_source
+    super
+    @gen_words = gen_words
+  end
+
+  def test_gen_method(array)
+    @gen_words
+    binding.pry
   end
 
   # # file_love = File.read('love.json')
@@ -25,3 +29,6 @@ class Genius
   #   end
   # end  
 end
+
+Genius.new
+["test"].test_gen_method

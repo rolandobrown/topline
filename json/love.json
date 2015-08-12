@@ -1,0 +1,389 @@
+{
+  -response: {
+    -hits: [
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/25829394b073d0e9d865b00a8f91403d.1000x1000x1.jpg",
+          title: "How Deep Is Your Love",
+          -primary_artist: {
+            image_url: "http://s3.amazonaws.com/rapgenius/1376605020_calvinharris.jpg",
+            name: "Calvin Harris",
+            id: 2069,
+            url: "http://genius.com/artists/Calvin-harris"
+          },
+          annotation_count: 1,
+          id: 2158086,
+          pyongs_count: 16,
+          url: "http://genius.com/Calvin-harris-how-deep-is-your-love-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/7154c6dafd6f6f883c099f033a4aa5e3.1000x1000x1.jpg",
+          title: "Love Yourz",
+          -primary_artist: {
+            image_url: "http://images.rapgenius.com/db5ae7867b235636f42c24934de5949c.600x400x1.jpg",
+            name: "J. Cole",
+            id: 69,
+            url: "http://genius.com/artists/J-cole"
+          },
+          annotation_count: 1,
+          id: 599451,
+          pyongs_count: 299,
+          url: "http://genius.com/J-cole-love-yourz-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/f8669cdf2c0e3327f3e72c946bf58b63.500x500x1.jpg",
+          title: "My Love",
+          -primary_artist: {
+            image_url: "http://s3.amazonaws.com/rapgenius/130807-Majid-Jordan.jpg",
+            name: "Majid Jordan",
+            id: 64585,
+            url: "http://genius.com/artists/Majid-jordan"
+          },
+          annotation_count: 1,
+          id: 2172771,
+          pyongs_count: 47,
+          url: "http://genius.com/Majid-jordan-my-love-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/a8db105d94a55a7c8ba630e39955e41c.1000x1000x1.jpg",
+          title: "What Is Love",
+          -primary_artist: {
+            image_url: "http://images.rapgenius.com/e51779f206d8ffe5f848b4f8bed0997a.444x605x1.jpg",
+            name: "Empire Cast",
+            id: 307381,
+            url: "http://genius.com/artists/Empire-cast"
+          },
+          annotation_count: 1,
+          id: 669100,
+          pyongs_count: 140,
+          url: "http://genius.com/Empire-cast-what-is-love-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/ab8a20c1c003c566e58d70de71d208d2.1000x1000x1.jpg",
+          title: "Waiting For Love",
+          -primary_artist: {
+            image_url: "http://s3.amazonaws.com/rapgenius/1376605032_Avicii.jpg",
+            name: "Avicii",
+            id: 17491,
+            url: "http://genius.com/artists/Avicii"
+          },
+          annotation_count: 1,
+          id: 734667,
+          pyongs_count: 53,
+          url: "http://genius.com/Avicii-waiting-for-love-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/af5dd565334d9bae86f973775b2156c6.1000x1000x1.jpg",
+          title: "Who Do You Love?",
+          -primary_artist: {
+            image_url: "http://images.rapgenius.com/e5e38f81aa27745a39733f124bf6a61d.806x1000x1.jpg",
+            name: "YG",
+            id: 1450,
+            url: "http://genius.com/artists/Yg"
+          },
+          annotation_count: 1,
+          id: 324980,
+          pyongs_count: 492,
+          url: "http://genius.com/Yg-who-do-you-love-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/f51a4ef54d56faafb96a7ff838f4ba81.1000x1000x1.png",
+          title: "I Don’t Like It, I Love It",
+          -primary_artist: {
+            image_url: "http://s3.amazonaws.com/rapgenius/flo-rida-En-Noir-leather-tank-top-upscalehype-2.jpg",
+            name: "Flo Rida",
+            id: 1081,
+            url: "http://genius.com/artists/Flo-rida"
+          },
+          annotation_count: 1,
+          id: 735642,
+          pyongs_count: 15,
+          url: "http://genius.com/Flo-rida-i-dont-like-it-i-love-it-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/3813bcd3d4accb7634eea23a2a7ab190.1000x1000x1.jpg",
+          title: "Complexion (A Zulu Love)",
+          -primary_artist: {
+            image_url: "http://images.rapgenius.com/b1cba2afc84189e937b273dcf24967c7.499x281x21.gif",
+            name: "Kendrick Lamar",
+            id: 1421,
+            url: "http://genius.com/artists/Kendrick-lamar"
+          },
+          annotation_count: 1,
+          id: 722287,
+          pyongs_count: 67,
+          url: "http://genius.com/Kendrick-lamar-complexion-a-zulu-love-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/6973c2c76f27a9e3019315c4a215dcb7.507x507x1.jpg",
+          title: "Love Sosa",
+          -primary_artist: {
+            image_url: "http://s3.amazonaws.com/rapgenius/sosaparisthumb.jpg",
+            name: "Chief Keef",
+            id: 16808,
+            url: "http://genius.com/artists/Chief-keef"
+          },
+          annotation_count: 1,
+          id: 92464,
+          pyongs_count: 268,
+          url: "http://genius.com/Chief-keef-love-sosa-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/6f530c4b3411e658c65faa7d9817c59f.620x620x1.jpg",
+          title: "Love/Paranoia",
+          -primary_artist: {
+            image_url: "http://s3.amazonaws.com/rapgenius/120808-Tame%20Impala.png",
+            name: "Tame Impala",
+            id: 26369,
+            url: "http://genius.com/artists/Tame-impala"
+          },
+          annotation_count: 1,
+          id: 2165824,
+          pyongs_count: 9,
+          url: "http://genius.com/Tame-impala-love-paranoia-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/efc3a4f25b83a143df29983c11184a6b.1000x1000x1.jpg",
+          title: "For the Love of Money",
+          -primary_artist: {
+            image_url: "http://images.rapgenius.com/05ea303149420d01991169a0c9713f1b.500x500x1.jpg",
+            name: "Dr. Dre",
+            id: 123,
+            url: "http://genius.com/artists/Dr-dre"
+          },
+          annotation_count: 1,
+          id: 2270748,
+          pyongs_count: 7,
+          url: "http://genius.com/Dr-dre-for-the-love-of-money-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/66fa338dcc819802ff426436ea33884d.300x144x1.jpg",
+          title: "Girls Love Beyoncé",
+          -primary_artist: {
+            image_url: "http://images.rapgenius.com/66fa338dcc819802ff426436ea33884d.500x240x9.gif",
+            name: "Drake",
+            id: 130,
+            url: "http://genius.com/artists/Drake"
+          },
+          annotation_count: 1,
+          id: 140797,
+          pyongs_count: 228,
+          url: "http://genius.com/Drake-girls-love-beyonce-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/90efbd9ee9091147cdd46cb6b5f55e64.600x600x1.jpg",
+          title: "Crew Love",
+          -primary_artist: {
+            image_url: "http://images.rapgenius.com/66fa338dcc819802ff426436ea33884d.500x240x9.gif",
+            name: "Drake",
+            id: 130,
+            url: "http://genius.com/artists/Drake"
+          },
+          annotation_count: 1,
+          id: 58497,
+          pyongs_count: 141,
+          url: "http://genius.com/Drake-crew-love-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/479a053dabf9c51d83e7570ee19c836a.640x640x1.jpg",
+          title: "No Love",
+          -primary_artist: {
+            image_url: "http://images.rapgenius.com/020c8175330dccb2360fb6bc2c42a199.619x412x1.jpg",
+            name: "Eminem",
+            id: 45,
+            url: "http://genius.com/artists/Eminem"
+          },
+          annotation_count: 1,
+          id: 530,
+          pyongs_count: 199,
+          url: "http://genius.com/Eminem-no-love-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/d87186f2070cd089141c044ae07f65e5.500x500x1.jpg",
+          title: "I Hate You I Love You",
+          -primary_artist: {
+            image_url: "http://images.rapgenius.com/fb8549eb3f8c3ff78f0d36db02eb2709.736x490x1.jpg",
+            name: "Gnash",
+            id: 48185,
+            url: "http://genius.com/artists/Gnash"
+          },
+          annotation_count: 1,
+          id: 2263909,
+          pyongs_count: 13,
+          url: "http://genius.com/Gnash-i-hate-you-i-love-you-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/64f27b6fadf4e408212459cf493500c3.220x220x1.jpg",
+          title: "Drunk In Love",
+          -primary_artist: {
+            image_url: "http://images.rapgenius.com/f05b3df868f75d204e6f5732120996b0.600x450x1.jpg",
+            name: "Beyoncé",
+            id: 498,
+            url: "http://genius.com/artists/Beyonce"
+          },
+          annotation_count: 1,
+          id: 299177,
+          pyongs_count: 3133,
+          url: "http://genius.com/Beyonce-drunk-in-love-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/1c31148e98b05ff85610eddc0cbaed59.794x1000x1.jpg",
+          title: "Habibi (I Need Your love)",
+          -primary_artist: {
+            image_url: "http://images.rapgenius.com/1c31148e98b05ff85610eddc0cbaed59.794x1000x1.jpg",
+            name: "Shaggy",
+            id: 7280,
+            url: "http://genius.com/artists/Shaggy"
+          },
+          annotation_count: 1,
+          id: 522014,
+          pyongs_count: 22,
+          url: "http://genius.com/Shaggy-habibi-i-need-your-love-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "//assets.rapgenius.com/images/default_cover_image.png?1439332102",
+          title: "Show Me Love",
+          -primary_artist: {
+            image_url: null,
+            name: "Robin S.",
+            id: 8430,
+            url: "http://genius.com/artists/Robin-s"
+          },
+          annotation_count: 1,
+          id: 51779,
+          pyongs_count: 3,
+          url: "http://genius.com/Robin-s-show-me-love-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/b13998f08c2fe9349b19c4464d786ce1.500x500x1.jpg",
+          title: "Love Me",
+          -primary_artist: {
+            image_url: "http://images.rapgenius.com/a1565dd8a5a8a64ac6b1dbf5061d5ef4.525x796x1.jpg",
+            name: "Lil Wayne",
+            id: 4,
+            url: "http://genius.com/artists/Lil-wayne"
+          },
+          annotation_count: 1,
+          id: 105686,
+          pyongs_count: 193,
+          url: "http://genius.com/Lil-wayne-love-me-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/0f846ae2c6026e0b63970d179a9c8ba5.460x460x1.jpg",
+          title: "I Love You, Honeybear",
+          -primary_artist: {
+            image_url: "http://images.rapgenius.com/6724b5eff2f3f3015cdb2b728bc8a297.1000x667x1.jpg",
+            name: "Father John Misty",
+            id: 30388,
+            url: "http://genius.com/artists/Father-john-misty"
+          },
+          annotation_count: 1,
+          id: 572029,
+          pyongs_count: 17,
+          url: "http://genius.com/Father-john-misty-i-love-you-honeybear-lyrics"
+        },
+        -highlights: {
+
+        }
+      }
+    ]
+  },
+  -meta: {
+    status: 200
+  }
+}

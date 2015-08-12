@@ -1,0 +1,386 @@
+{
+  -response: {
+    -hits: [
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/2831d53cf1b73bf94fa3b5cd52d9ab31.740x406x1.png",
+          annotation_count: 1,
+          pyongs_count: 6,
+          title: "Reading Dense Python Code",
+          -primary_artist: {
+            image_url: "",
+            name: "​nightpool",
+            id: 208743,
+            url: "http://genius.com/artists/Nightpool"
+          },
+          id: 482565,
+          url: "http://genius.com/Nightpool-reading-dense-python-code-annotated"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/adc81ddb71fc3b8fc301fb13d3cb2324.500x500x1.jpg",
+          annotation_count: 1,
+          pyongs_count: 66,
+          title: "Codeine Crazy",
+          -primary_artist: {
+            image_url: "http://images.rapgenius.com/9b7019ee3194626f0779cef15e5d5f58.1000x665x1.jpg",
+            name: "Future",
+            id: 2197,
+            url: "http://genius.com/artists/Future"
+          },
+          id: 559442,
+          url: "http://genius.com/Future-codeine-crazy-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/2813cc6949733f8554e1650e0ba0cb3a.500x500x1.jpg",
+          annotation_count: 1,
+          pyongs_count: 22,
+          title: "Codeine Crazy (Icarus Story)",
+          -primary_artist: {
+            image_url: "http://images.rapgenius.com/dd73058008221ebfa37fc42686dccf74.400x203x56.gif",
+            name: "Vic Mensa",
+            id: 18814,
+            url: "http://genius.com/artists/Vic-mensa"
+          },
+          id: 2256045,
+          url: "http://genius.com/Vic-mensa-codeine-crazy-icarus-story-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/d54a4c22d6a9cbd3c7eb80be4f4354f2.342x342x1.jpg",
+          annotation_count: 1,
+          pyongs_count: 42,
+          title: "Angel of Small Death & the Codeine Scene",
+          -primary_artist: {
+            image_url: "http://images.rapgenius.com/2ef9a9485c1077e2311eeb85708d686c.608x363x1.jpg",
+            name: "Hozier",
+            id: 73910,
+            url: "http://genius.com/artists/Hozier"
+          },
+          id: 338674,
+          url: "http://genius.com/Hozier-angel-of-small-death-and-the-codeine-scene-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://s3.amazonaws.com/rapgenius/1364425679_Ludacris-WordOfMouf-music-album.jpg",
+          annotation_count: 1,
+          pyongs_count: 11,
+          title: "Area Codes",
+          -primary_artist: {
+            image_url: "http://images.rapgenius.com/681d8c600ba28bd7fa248d4ba9beb2e9.522x392x1.jpg",
+            name: "Ludacris",
+            id: 111,
+            url: "http://genius.com/artists/Ludacris"
+          },
+          id: 738,
+          url: "http://genius.com/Ludacris-area-codes-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://s3.amazonaws.com/rapgenius/Juicy_J_Blue_Dream_Lean_bonus_Tracks.jpg",
+          annotation_count: 1,
+          pyongs_count: 14,
+          title: "Codeine Cups",
+          -primary_artist: {
+            image_url: "http://images.rapgenius.com/0b62691f1ab6249de4e3e94b9d7c3afb.620x400x1.jpg",
+            name: "Juicy J",
+            id: 1073,
+            url: "http://genius.com/artists/Juicy-j"
+          },
+          id: 74948,
+          url: "http://genius.com/Juicy-j-codeine-cups-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "//assets.rapgenius.com/images/default_cover_image.png?1439332102",
+          annotation_count: 1,
+          pyongs_count: 3,
+          title: "G-Code",
+          -primary_artist: {
+            image_url: null,
+            name: "Dotty Dot",
+            id: 342629,
+            url: "http://genius.com/artists/Dotty-dot"
+          },
+          id: 739351,
+          url: "http://genius.com/Dotty-dot-g-code-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/7b13896b86eb7a9e5149385061bc237a.300x166x1.jpg",
+          annotation_count: 1,
+          pyongs_count: 24,
+          title: "Why Is Learning To Code So Hard?",
+          -primary_artist: {
+            image_url: "http://images.rapgenius.com/7b13896b86eb7a9e5149385061bc237a.300x166x1.jpg",
+            name: "EwokABdevito",
+            id: 149149,
+            url: "http://genius.com/artists/Ewokabdevito"
+          },
+          id: 911022,
+          url: "http://genius.com/Ewokabdevito-why-is-learning-to-code-so-hard-annotated"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "//assets.rapgenius.com/images/default_cover_image.png?1439332102",
+          annotation_count: 1,
+          pyongs_count: null,
+          title: "Senses",
+          -primary_artist: {
+            image_url: null,
+            name: "Cheat Codes",
+            id: 377002,
+            url: "http://genius.com/artists/Cheat-codes"
+          },
+          id: 1783748,
+          url: "http://genius.com/Cheat-codes-senses-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "//assets.rapgenius.com/images/default_cover_image.png?1439332102",
+          annotation_count: 1,
+          pyongs_count: 1,
+          title: "Adventure",
+          -primary_artist: {
+            image_url: null,
+            name: "Cheat Codes",
+            id: 377002,
+            url: "http://genius.com/artists/Cheat-codes"
+          },
+          id: 1040288,
+          url: "http://genius.com/Cheat-codes-adventure-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/50049676fd6ba9fb9629357ff879902a.800x800x1.jpg",
+          annotation_count: 1,
+          pyongs_count: 3,
+          title: "G Code",
+          -primary_artist: {
+            image_url: "http://s3.amazonaws.com/rapgenius/4936_geto-boys.jpg",
+            name: "Geto Boys",
+            id: 377,
+            url: "http://genius.com/artists/Geto-boys"
+          },
+          id: 3631,
+          url: "http://genius.com/Geto-boys-g-code-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/cb94f87e70455511c0c68cf9c678d397.500x500x1.jpg",
+          annotation_count: 1,
+          pyongs_count: 14,
+          title: "Gravity",
+          -primary_artist: {
+            image_url: "",
+            name: "The Code",
+            id: 15225,
+            url: "http://genius.com/artists/The-code"
+          },
+          id: 507447,
+          url: "http://genius.com/The-code-gravity-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://s3.amazonaws.com/rapgenius/1371383954_thekingoflimbs.jpg",
+          annotation_count: 1,
+          pyongs_count: 6,
+          title: "Codex",
+          -primary_artist: {
+            image_url: "http://images.rapgenius.com/73715694109bea2f690beb19a23e45f4.350x350x1.jpg",
+            name: "Radiohead",
+            id: 604,
+            url: "http://genius.com/artists/Radiohead"
+          },
+          id: 172677,
+          url: "http://genius.com/Radiohead-codex-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://s3.amazonaws.com/rapgenius/saul+williams+2.jpg",
+          annotation_count: 1,
+          pyongs_count: 10,
+          title: "Coded Language",
+          -primary_artist: {
+            image_url: "http://s3.amazonaws.com/rapgenius/saul+williams+2.jpg",
+            name: "Saul Williams",
+            id: 213,
+            url: "http://genius.com/artists/Saul-williams"
+          },
+          id: 55198,
+          url: "http://genius.com/Saul-williams-coded-language-annotated"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://s3.amazonaws.com/rapgenius/5bcb072068bb11e1b9f1123138140926_7.jpg",
+          annotation_count: 1,
+          pyongs_count: 7,
+          title: "The Code",
+          -primary_artist: {
+            image_url: "http://images.rapgenius.com/0b37a2b5f4681a36879f42d5a9ca3243.600x600x1.jpg",
+            name: "Wiz Khalifa",
+            id: 310,
+            url: "http://genius.com/artists/Wiz-khalifa"
+          },
+          id: 68306,
+          url: "http://genius.com/Wiz-khalifa-the-code-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/88c8ea7213f9024037504da278c566c0.700x700x1.jpg",
+          annotation_count: 1,
+          pyongs_count: 10,
+          title: "Code of the Streets",
+          +primary_artist: {
+            ...
+          },
+          id: 21332,
+          url: "http://genius.com/Gang-starr-code-of-the-streets-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://s3.amazonaws.com/rapgenius/51HSG2Hjt0L._SL500_AA280_.jpg",
+          annotation_count: 1,
+          pyongs_count: null,
+          title: "Code 187",
+          -primary_artist: {
+            image_url: "http://s3.amazonaws.com/rapgenius/tJuQkbLNSJnfR2t4cluP_rohff.jpg",
+            name: "Rohff",
+            id: 1908,
+            url: "http://genius.com/artists/Rohff"
+          },
+          id: 62689,
+          url: "http://genius.com/Rohff-code-187-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://images.rapgenius.com/5401dd74c144153263aaeed505b5e1cc.600x600x1.jpg",
+          annotation_count: 1,
+          pyongs_count: 9,
+          title: "Code Red",
+          -primary_artist: {
+            image_url: "http://images.rapgenius.com/1f3b76fb516cc6343dfed42c1580871f.323x323x1.jpg",
+            name: "Jay Rock",
+            id: 1403,
+            url: "http://genius.com/artists/Jay-rock"
+          },
+          id: 55126,
+          url: "http://genius.com/Jay-rock-code-red-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "//assets.rapgenius.com/images/default_cover_image.png?1439332102",
+          annotation_count: 1,
+          pyongs_count: 6,
+          title: "Codes",
+          -primary_artist: {
+            image_url: null,
+            name: "Cash Nelly",
+            id: 169629,
+            url: "http://genius.com/artists/Cash-nelly"
+          },
+          id: 461104,
+          url: "http://genius.com/Cash-nelly-codes-lyrics"
+        },
+        -highlights: {
+
+        }
+      },
+      -{
+        -result: {
+          header_image_url: "http://s3.amazonaws.com/rapgenius/rapsodySGGcover.jpg",
+          annotation_count: 1,
+          pyongs_count: 10,
+          title: "Jedi Code",
+          -primary_artist: {
+            image_url: "http://s3.amazonaws.com/rapgenius/Rapsody%20by%20Chris%20Charles.jpg",
+            name: "Rapsody",
+            id: 14148,
+            url: "http://genius.com/artists/Rapsody"
+          },
+          id: 207163,
+          url: "http://genius.com/Rapsody-jedi-code-lyrics"
+        },
+        -highlights: {
+
+        }
+      }
+    ]
+  },
+  -meta: {
+    status: 200
+  }
+}

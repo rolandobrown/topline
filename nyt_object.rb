@@ -1,12 +1,10 @@
-require_relative "./key.rb"
+require_relative "./keys.rb"
 require 'rest-client'
 require 'pry'
 require_relative 'cli_object'
 
 class Nytimes < Cli
   @@words = []
-
-class Nytimes
 
   attr_reader :story_headline, :story_link
   attr_accessor :set_keywords_array
@@ -23,13 +21,13 @@ class Nytimes
     today_headlines_array = today_docs_array.collect {|doc| doc["headline"]["main"]}
   end
 
-  def set_keywords_array
-    "#{@@words}"
-  end
+  # def set_keywords_array
+  #   "#{@@words}"
+  # end
 
-  def compare_keywords
-    set_keywords_array
-  end
+  # def compare_keywords
+  #   set_keywords_array
+  # end
 
   def get_api_headline(json_array)
     from_nytimes = super

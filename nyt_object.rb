@@ -29,8 +29,8 @@ class Nytimes < Cli
   #   set_keywords_array
   # end
 
-  def get_api_headline(json_array)
-    from_nytimes = super
-    "Here are a few matching headlines: #{from_nytimes}"
-  end
+  # def get_api_headline(json_array)
+  #   from_nytimes = super
+  #   "Here are a few matching headlines: #{from_nytimes}"
+  # end
 end

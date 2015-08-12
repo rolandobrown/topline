@@ -37,7 +37,11 @@ class Cli
       @@words << keyword
     end
     @@words
-    puts "Finding today's headlines that match #{@@words}"
+    puts "-------------------NYTimes---------------------"
+    puts "Finding today's headlines that match: #{@@words}"
+    sleep 1
+    puts 
+
   end
 
   # def self.words
@@ -53,8 +57,8 @@ class Cli
     today_parsed = JSON.parse(nytimes_today_json)
     today_docs_array = today_parsed["response"]["docs"]
     today_headlines_array = today_docs_array.collect {|doc| doc["headline"]["main"]}
-        binding.pry
-
       puts today_headlines_array
+    today_headlines_link = today_docs_array.collect {|doc| doc["web_url"]}
+      puts today_headlines_link
   end  
 end

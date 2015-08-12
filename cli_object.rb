@@ -2,6 +2,7 @@ require 'pry'
 require 'date'
 require_relative './keys.rb'
 require 'rest-client'
+require 'json'
 
 class Cli
 
@@ -9,7 +10,7 @@ class Cli
   # attr_reader :story_source, :story_headline, :song_source, :song_title, :song_lyrics
   #reader, and method to make them available 
   # :name, :word_collection_array, :chosen_words, 
-  
+
   def initialize(name)
     @name = name
     @welcome = "Welcome to Topline #{name}"
@@ -38,7 +39,7 @@ class Cli
     end
     @@words
     puts "-------------------NYTimes---------------------"
-    puts "Finding today's headlines that match: #{@@words}"
+    puts "These stories talk about #{@@words} in some way"
     sleep 1
     puts 
 

@@ -16,6 +16,7 @@ class Cli
     @welcome = "Welcome to Topline #{name}"
     @time = Time.new.strftime("%Y%m%d")
     @@words = ""
+    @@headlines_plus_songs = ""
   end
 
   def get_name
@@ -45,7 +46,8 @@ class Cli
   end
 
   def map_array_with_index(array)
-    array.map.with_index(1){|element, index| puts "#{index}. " "#{element}" unless index >10}
+    array1 = array.map.with_index(1){|element, index| puts "#{index}. " "#{element}" unless index > @@words.length}
+    array1
   end
 
   def get_api_headline
@@ -56,6 +58,7 @@ class Cli
     today_headlines_link = today_docs_array.collect {|doc| doc["web_url"]}
     map_array_with_index(today_headlines_array)
     map_array_with_index(today_headlines_link)
+    puts
   end
 
   def parse_gen_json
@@ -64,20 +67,27 @@ class Cli
         love_parsed = JSON.parse(file_love)
         today_love_songs_array = love_parsed["response"]["hits"]
         today_love_songs = today_love_songs_array.collect {|hit| hit ["result"]["title"]}
+        today_love_songs_link = today_love_songs_array.collect {|hit| hit["result"]["url"]}
         map_array_with_index(today_love_songs)
+        map_array_with_index(today_love_songs_link)
     elsif  @@words = "learn"
       file_learn = File.read('learn.json')
       learn_parsed = JSON.parse(file_love)
       today_learn_songs_array = learn_parsed["response"]["hits"]
       today_learn_songs = today_learn_songs_array.collect {|hit| hit ["result"]["title"]}
+      today_learn_songs_link = today_learn_songs_array.collect {|hit| hit["result"]["url"]}
       map_array_with_index(today_learn_songs)
+      map_array_with_index(today_learn_songs_link)
     elsif @@words = "code"
       file_code = File.read('code.json')
       code_parsed = JSON.parse(file_love)
       today_code_songs_array = code_parsed["response"]["hits"]
       today_code_songs = today_code_songs_array.collect {|hit| hit ["result"]["title"]}
+      today_code_songs_link = today_code_songs_array.collect {|hit| hit["result"]["url"]}
       map_array_with_index(today_code_songs)
+      map_array_with_index(today_code_songs_link)
     end
+    puts
   end
 
   def return_code_song_name

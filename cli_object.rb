@@ -7,16 +7,12 @@ require 'json'
 class Cli
 
   attr_accessor :welcome, :time, :name, :word
-  # attr_reader :story_source, :story_headline, :song_source, :song_title, :song_lyrics
-  #reader, and method to make them available
-  # :name, :word_collection_array, :chosen_words,
 
   def initialize(name)
     @name = name
     @welcome = "Welcome to Topline #{name}"
     @time = Time.new.strftime("%Y%m%d")
     @@words = ""
-    @@headlines_plus_songs = ""
     @@songs = ""
   end
 

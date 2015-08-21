@@ -4,8 +4,8 @@
 This app returns today's top headlines from the NYTimes that match keywords from their favorite songs.
 
 Created by George Toothman & Rolando Brown
-https://github.com/georgetoothman
-https://github.com/rolandobrown
+- https://github.com/georgetoothman
+- https://github.com/rolandobrown
 
 #Tools
 -[x] NYTimes API

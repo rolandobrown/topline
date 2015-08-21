@@ -13,7 +13,7 @@ Created by George Toothman & Rolando Brown
 - [ ] Spotify
 
 #Done
--[x] Return todays top headlines from NYTimes
+- [x] Return todays top headlines from NYTimes
 
 #Roadmap
 - [ ] Return top songs from Spotify where keyword is in title of song.
